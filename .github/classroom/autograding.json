@@ -3,7 +3,7 @@
     {
       "name": "Exercise 2",
       "setup": "",
-      "run": "gradle test --tests \"*TestE02\"",
+      "run": "gradle test --tests \"*E02Test\"",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "Exercise 3",
       "setup": "",
-      "run": "gradle test --tests \"*TestE03\"",
+      "run": "gradle test --tests \"*E03Test\"",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -23,7 +23,7 @@
     {
       "name": "Exercise 4",
       "setup": "",
-      "run": "gradle test --tests \"*TestE04\"",
+      "run": "gradle test --tests \"*E04Test\"",
       "input": "",
       "output": "",
       "comparison": "included",
